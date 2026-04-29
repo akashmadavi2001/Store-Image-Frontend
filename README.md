@@ -10,3 +10,7 @@ Product List
 View Section
 
 <img width="627" height="773" alt="Image" src="https://github.com/user-attachments/assets/9941ae51-2756-4d73-a21c-3e4972c9158a" />
+
+Update Section
+
+<img width="993" height="894" alt="Image" src="https://github.com/user-attachments/assets/80d9910c-35f3-49ba-a53c-23dea555fb8e" />
