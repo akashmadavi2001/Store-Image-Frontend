@@ -11,6 +11,8 @@ A product list is a document or database that catalogs a company’s entire port
 
 View Section
 
+The Page Information view for a page shows you useful information about the page.
+
 <img width="627" height="773" alt="Image" src="https://github.com/user-attachments/assets/9941ae51-2756-4d73-a21c-3e4972c9158a" />
 
 Add Section
