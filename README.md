@@ -17,6 +17,8 @@ The Page Information view for a page shows you useful information about the page
 
 Add Section
 
+"Add section" functionality varies significantly by platform, as the term applies to document formatting, web design, learning management systems, and form building.
+
 <img width="960" height="848" alt="Image" src="https://github.com/user-attachments/assets/c410dd9d-60c9-4070-913c-d6447edc50cd" />
 
 Update Section
