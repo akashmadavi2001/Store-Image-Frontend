@@ -2,7 +2,6 @@
 
 Store image file
 
-
 Product List 
 
 A product list is a document or database that catalogs a company’s entire portfolio of goods or services, organizing details such as product names, unique identifiers (SKUs), costs, inventory status, and sales history.
@@ -22,5 +21,7 @@ Add Section
 <img width="960" height="848" alt="Image" src="https://github.com/user-attachments/assets/c410dd9d-60c9-4070-913c-d6447edc50cd" />
 
 Update Section
+
+The term update section refers to distinct features or processes depending on the specific platform or context.
 
 <img width="993" height="894" alt="Image" src="https://github.com/user-attachments/assets/80d9910c-35f3-49ba-a53c-23dea555fb8e" />
