@@ -2,6 +2,8 @@
 
 Store image file
 
+The most effective method for storing image files in modern applications is to save the actual image data in object storage
+
 Product List 
 
 A product list is a document or database that catalogs a company’s entire portfolio of goods or services, organizing details such as product names, unique identifiers (SKUs), costs, inventory status, and sales history.
