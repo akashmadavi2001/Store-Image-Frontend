@@ -24,4 +24,4 @@ Update Section
 
 The term update section refers to distinct features or processes depending on the specific platform or context.
 
-<img width="993" height="894" alt="Image" src="https://github.com/user-attachments/assets/80d9910c-35f3-49ba-a53c-23dea555fb8e" />
+<img width="995" height="895" alt="Image" src="https://github.com/user-attachments/assets/80d9910c-35f3-49ba-a53c-23dea555fb8e" />
