@@ -1,6 +1,19 @@
 # Store Frontend
 
-Store image file
+The application uses ReactJS for the frontend and Spring Boot for the backend. Users can upload images through the React interface, and the image data is sent to the Spring Boot REST API. The backend processes the uploaded file and stores it in the database (or file system/cloud storage), while maintaining image metadata such as filename, content type, and storage path. When the application needs to display an image, ReactJS requests the image data from the Spring Boot API, which retrieves the stored image and sends it back to the client for rendering.
+
+ReactJS (Image Upload)
+          ↓
+Spring Boot REST API
+          ↓
+Image Processing & Validation
+          ↓
+Database Storage (Image + Metadata)
+          ↓
+Image Retrieval API
+          ↓
+ReactJS (Display Image)
+
 
 Product List: 
 
